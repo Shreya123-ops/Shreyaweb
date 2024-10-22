@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F8F5;
+  }
+  
+  #landing {
+    background-color: #A7D790;
+    color: #fff;
+  }
+  
+  h1, h2 {
+    color: #264C23;
+  }
+  
+  p.lead {
+    font-size: 1.25rem;
+  }
+  
+  .btn-dark {
+    background-color: #264C23;
+    color: #fff;
+    border: none;
+  }
+  
+  .card {
+    border: 1px solid #264C23;
+  }
+  
+  .card-title {
+    color: #264C23;
+  }
+  
+  #faq {
+    background-color: #E0F2E5;
+  }
+  
+  .accordion-button {
+    background-color: #A7D790;
+    color: #264C23;
+  }
+  
+  .accordion-button.collapsed {
+    background-color: #E0F2E5;
+  }
+  
+  .btn-outline-dark {
+    border-color: #264C23;
+    color: #264C23;
+  }
+  
+  .btn-outline-dark:hover {
+    background-color: #264C23;
+    color: white;
+  }
+  
+  form .btn-dark {
+    background-color: #264C23;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #A7D790; /* Light green hover effect */
+  }
+  
